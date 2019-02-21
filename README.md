@@ -5,6 +5,7 @@ Bees - get ready to learn some science, and ES6
 Bees (the most noble of insects) progress through specific developmental stages over the course of their lifetimes. Each phase has specific traits and behaviors associated with it that are unique to that lifestage. In this repo, you will create bees of many lifestages while practicing the new class syntax that ES6 instatiation pattern, inheritance, and subclassing.
 
 Class Structure
+
 ├── Grub
 
 │   └── Bee
